@@ -40,9 +40,9 @@ body {
  z-index: 2;
  text-align: center;
  justify-content: center;
- padding: 20%;
- font-weight: 700px;
- text-size: 50px;
+ padding: 25%;
+ font-weight: 600;
+ font-size: 50px;
 }
 
 @media (max-width: 1100px) {
