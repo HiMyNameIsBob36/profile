@@ -121,7 +121,7 @@ hr { height: 1px; width: 300px; color: #E3E0CF;}
 
 .app-description { font-weight: 700; font-size: 16px; margin-bottom: 30px; color: var(--text-dark); }
 
-.btn-list { display: flex; flex-direction: column; gap: 10px; justify-content: end; height: -webkit-fill-avalible;}
+.btn-list { display: flex; flex-direction: column; gap: 10px; justify-content: end; height: -webkit-fill-available;}
 .pill-btn {
     background: var(--btn-color);
     color: #fff;
