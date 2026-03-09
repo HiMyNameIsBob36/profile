@@ -113,15 +113,15 @@ body {
     margin-bottom: 30px;
 }
 
+hr { display: block; }
+
 .header-text h2 { margin: 0; font-size: 18px; line-height: 1.2; }
 .header-text p { margin: 0; color: #777; font-size: 12px; }
-
 .header-logo { width: 65px; height: 65px; border-radius: 12px; background: #000; }
 
 .app-description { font-weight: 700; font-size: 16px; margin-bottom: 30px; color: var(--text-dark); }
 
 .btn-list { display: flex; flex-direction: column; gap: 10px; justify-content: end; height: 500px;}
-
 .pill-btn {
     background: var(--btn-color);
     color: #fff;
