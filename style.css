@@ -11,8 +11,12 @@
  display: none;
  height: 100%;
  width: 100%;
- colour: rbga(33, 33, 33, 0.5);
- z-index: 2;   
+ background-colour: rbga(33, 33, 33, 0.5);
+ colour: white;
+ z-index: 2;
+ display: flex;
+ align-items: center;
+ justify-content: center;
 }
 
 @media (max-width: 1100px) {
