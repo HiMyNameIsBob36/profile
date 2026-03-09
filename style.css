@@ -7,9 +7,17 @@
 
 * { box-sizing: border-box; }
 
+.sizee {
+ display: none;
+ height: 100%;
+ width: 100%;
+ colour: rbga(33, 33, 33, 0.5)
+ z-index: 2;   
+}
+
 body {
     margin: 0;
-    height: 95vh;
+    height: 100vh;
     width: 100vw;
     display: flex;
     justify-content: center;
