@@ -21,7 +21,7 @@ body {
 
 .phone-frame {
     width: 350px;
-    height: 680px;
+    height: 95%;
     background: var(--phone-bg);
     border-radius: 45px;
     border: 12px solid #ffffff;
