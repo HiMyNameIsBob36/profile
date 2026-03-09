@@ -14,13 +14,12 @@
  background-colour: rbga(33, 33, 33, 0.5);
  colour: white;
  z-index: 2;
- display: flex;
  align-items: center;
  justify-content: center;
 }
 
 @media (max-width: 1100px) {
-    .sizee { display: block; }
+    .sizee { display: flex; }
 }
 
 body {
