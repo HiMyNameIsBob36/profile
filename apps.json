@@ -1,0 +1,21 @@
+[
+    {
+        "id": "nswrp",
+        "name": "NSW RP",
+        "icon": "https://i.imgur.com/vHq0G9R.png",
+        "description": "Description! This will be in the .json file.",
+        "year": "2025",
+        "links": [
+            {"label": "Learn More", "url": "#"},
+            {"label": "Visit Projects Site", "url": "#"},
+            {"label": "Join Discord", "url": "https://discord.gg/example"}
+        ]
+    },
+    {
+        "id": "settings",
+        "name": "Settings",
+        "icon": "https://cdn-icons-png.flaticon.com/512/3953/3953226.png",
+        "description": "Change the phone background color.",
+        "isSettings": true
+    }
+]
