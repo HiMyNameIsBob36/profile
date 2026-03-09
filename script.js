@@ -58,8 +58,10 @@ function openApp(id) {
                 </div>
                 <img src="${app.icon}" class="header-logo">
             </div>
+            <hr>
             <div class="app-description">${app.description}</div>
-            <div class="btn-list">${linksHtml}</div>
+            <div class="btn-list">
+            <hr>${linksHtml}</div>
         </div>
     `;
 }
