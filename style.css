@@ -38,7 +38,7 @@ body {
  background-colour: rbga(33, 33, 33, 0.5);
  colour: white;
  z-index: 2;
- align-items: center;
+ text-align: center;
  justify-content: center;
 }
 
