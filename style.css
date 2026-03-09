@@ -35,7 +35,7 @@ body {
  display: none;
  height: 100wh;
  width: 100vw;
- background-colour: rbga(33, 33, 33, 0.5);
+ background-color: rbga(33, 33, 33, 0.5);
  colour: white;
  z-index: 2;
  text-align: center;
