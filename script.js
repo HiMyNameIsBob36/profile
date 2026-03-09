@@ -72,7 +72,7 @@ function renderSettings() {
             </div>
             <div class="app-description">Select a background color for the site:</div>
             <div class="btn-list">
-                <button class="pill-btn" onclick="changeTheme('#1b431c')">Forest Green</button>
+                <button class="pill-btn" onclick="changeTheme('#245215')">Forest Green</button>
                 <button class="pill-btn" onclick="changeTheme('#1a1a1a')">Deep Onyx</button>
                 <button class="pill-btn" onclick="changeTheme('#1b2743')">Midnight Blue</button>
             </div>
