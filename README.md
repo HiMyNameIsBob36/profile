@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <br><b>Resources</b><br>
   <img src="https://img.shields.io/badge/Supabase-%2334B27B.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Netlify-%232E51ED.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Netlify-%2305BDBA.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
 <p align="center">
