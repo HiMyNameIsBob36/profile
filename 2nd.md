@@ -25,4 +25,4 @@
   </a>
 </p>
 
-<hr>
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
