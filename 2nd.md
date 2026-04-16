@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JS"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
@@ -20,9 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/Pswb8khdgQ">
-    <img src="https://dcbadge.limes.pink/api/server/Pswb8khdgQ?style=flat" alt="Discord Badge">
+  <a href="https://discord.gg/3C5tdD6VBg">
+    <img src="https://dcbadge.limes.pink/api/server/3C5tdD6VBg?style=flat" alt="Discord Badge">
   </a>
 </p>
 
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
