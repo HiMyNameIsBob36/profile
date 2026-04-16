@@ -1,8 +1,6 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&theme=light">
-    <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=header&text=Welcome%20to%20my%20Profile&fontSize=40" alt="Header">
+    <img src="banned.png" height="100">
   </picture>
 </h1>
 
