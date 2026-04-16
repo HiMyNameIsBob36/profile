@@ -26,8 +26,3 @@
 </p>
 
 <hr>
-
-### 📊 My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HiMyNameIsBob36&show_icons=true&theme=transparent&hide_border=true" alt="Stats" height="150">
-</p>
