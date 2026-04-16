@@ -5,10 +5,14 @@
 </h1>
 
 <p align="center">
+  <b>Languages</b>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=%23323330" alt="JS"/>
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <b>Resources</b>
+  <img src="https://img.shields.io/badge/Supabase-%23007ACC.svg?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Netlify-%23007ACC.svg?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
 </p>
 
 <p align="center">
